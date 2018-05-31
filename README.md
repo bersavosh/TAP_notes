@@ -15,7 +15,7 @@ Notes and examples for using TAP and ADQL
 - [TAP in PyVO](https://pyvo.readthedocs.io/en/latest/#data-access)
 - [A python script by Morgan Fouesneau](https://github.com/mfouesneau/tap)
 - [ADQL Library](http://cdsportal.u-strasbg.fr/adqltuto/) (Java)
-- [Gaia-on-tap](https://github.com/andycasey/gaia-on-tap/) (specificly for Gaia)
+- [Gaia-on-tap](https://github.com/andycasey/gaia-on-tap/) (specifically for Gaia)
 
 ### Some notable astronomy databases accessible via TAP:
 - [Visier](http://tapvizier.u-strasbg.fr/adql/)
