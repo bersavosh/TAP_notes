@@ -13,7 +13,7 @@ Notes and examples for using TAP and ADQL
 - [A python script by Morgan Fouesneau](https://github.com/mfouesneau/tap)
 - [ADQL Library](http://cdsportal.u-strasbg.fr/adqltuto/) (Java)
 
-### Some notable astronomy databases with accessible via TAP:
+### Some notable astronomy databases accessible via TAP:
 - [Visier](http://tapvizier.u-strasbg.fr/adql/)
 - [NOAO](https://datalab.noao.edu/decals/dataAccess.php) (part of NOAO datalab)
 - [SIMBAD](http://simbad.u-strasbg.fr/simbad/sim-tap)
