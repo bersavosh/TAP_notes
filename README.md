@@ -1,4 +1,4 @@
-# TAP_notes
+# TAP notes
 Notes and examples for using TAP and ADQL
 
 ### Resources:
