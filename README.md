@@ -8,6 +8,7 @@ Notes and examples for using TAP and ADQL
 - [ADQL Cheatsheet](http://docs.g-vo.org/adqlref/adqlref.pdf)
 - [Examples of ADQL queries from CADC](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/doc/tap/)
 - [Example of using TAP for Gaia in Astropy](https://gea.esac.esa.int/archive-help/tutorials/python_cluster/index.html)
+- [A fantastic tutorial for TAP in python by Morgan Fouesneau](https://github.com/mfouesneau/tap/blob/master/examples/TAP_tutorial.ipynb)
 
 ### Some TAP/ADQL-Aware clients and packages:
 - [TAP in Topcat](http://www.star.bris.ac.uk/~mbt/topcat/sun253/TapTableLoadDialog.html)
@@ -24,5 +25,3 @@ Notes and examples for using TAP and ADQL
 - [HEASARC](https://heasarc.gsfc.nasa.gov/docs/archive/vo/)
 
 and many many more. 
-
-### Appendix: SIA
